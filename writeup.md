@@ -19,10 +19,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./camera_cal/undist.jpg "Undistorted"
 [image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./test_images/binary_combo_test1.jpg "Binary Example"
-[image4]: ./test_images/warped_test3.jpg "Warp Example"
-[image5]: ./test_images/color_fit_lines.jpg "Fit Visual"
-[image6]: ./test_images/example_output_test3.jpg "Output"
+[image3]: ./output_images/binary_combo_test1.jpg "Binary Example"
+[image4]: ./output_images/warped_test3.jpg "Warp Example"
+[image5]: ./output_images/color_fit_lines.jpg "Fit Visual"
+[image6]: ./output_images/example_output_test3.jpg "Output"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -95,7 +95,7 @@ Then lane-line pixels have been detected in find_lanes() in section 6.Histogram 
 
 #### 5. Describe how (and identify where in your code) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.
 
-Radius of curvature have been calculated in te same find_lanes() function in section 6. I used the lane fit polynomial coefficients to calculate the radius of curvature of left and right lanes in meters.
+Radius of curvature have been calculated in the same find_lanes() function in section 6. I used the lane fit polynomial coefficients to calculate the radius of curvature of left and right lanes in meters.
 
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
