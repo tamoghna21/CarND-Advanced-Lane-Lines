@@ -109,7 +109,7 @@ I implemented this step in section 7 of the jupyter notebook. Here is an example
 
 #### 1. I ran the pipeline on an example project video. Here is the result:
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result][video1]
 
 ---
 
