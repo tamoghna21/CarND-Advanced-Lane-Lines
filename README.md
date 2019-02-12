@@ -100,4 +100,4 @@ I implemented this step in section 7 of the jupyter notebook. Here is an example
 
 #### 1. Pipeline implementation on an example video. Here is the result:
 
-Here's a [link to my video result][video1]
+Here's a [link to my video result](https://youtu.be/CmPTJ247wMA)
